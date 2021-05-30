@@ -26,10 +26,10 @@ pip3 install json
 ![image](https://user-images.githubusercontent.com/75521125/120108434-ae189080-c197-11eb-91eb-3764872b1dc6.png)
 ![image](https://user-images.githubusercontent.com/75521125/120108451-bec90680-c197-11eb-824a-b5dbeb02a126.png)
 ![image](https://user-images.githubusercontent.com/75521125/120108470-d4d6c700-c197-11eb-9f8a-92562b250c23.png)
-![image](https://user-images.githubusercontent.com/75521125/120108493-eddf7800-c197-11eb-9397-edff0f6e26d5.png)
+![image](https://user-images.githubusercontent.com/75521125/120109060-62b3b180-c19a-11eb-9e7a-4f9beca54ed9.png)  
 上传刚刚下载的压缩包文件
-![image](https://user-images.githubusercontent.com/75521125/120108677-de146380-c198-11eb-891e-1ec38754f00f.png)
+![image](https://user-images.githubusercontent.com/75521125/120108677-de146380-c198-11eb-891e-1ec38754f00f.png)  
 SERVER选填，COOKIE必填，这两个必须大写
 ![image](https://user-images.githubusercontent.com/75521125/120108692-ee2c4300-c198-11eb-96fd-e8a7003166f4.png)
-![image](https://user-images.githubusercontent.com/75521125/120108725-13b94c80-c199-11eb-84b8-83e3a8a14818.png)
+![image](https://user-images.githubusercontent.com/75521125/120108725-13b94c80-c199-11eb-84b8-83e3a8a14818.png)  
 这些填完后点击页面左下角附近的完成
