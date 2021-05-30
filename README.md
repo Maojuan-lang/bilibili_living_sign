@@ -1,1 +1,1 @@
-# bilibili_living_sign
+# b站直播签到脚本
